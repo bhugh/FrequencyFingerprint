@@ -11,9 +11,10 @@ The code is implemented in python on Google Colab Notebooks, which you can view 
   * From those share links, you can run the Notebook and process files to create Frequency Fingerprints.  However, you will need to log into a Google account before running any code.
   * You can also make a copy of the Notebook and use/edit it to your heart's content
  
-**Results**
+**Sample Results**
 * [Chopin Preludes in 3 Seconds](https://www.youtube.com/watch?v=EhbAYZ5BWPc) - Frequency Fingerprint of each Prelude shown & heard in rapid succession (Youtube)
 * [Sample real-time calculation of Frequency Fingerprint from an audio file](https://www.youtube.com/watch?v=BUoAEdULw3U) (Youtube)
 
+**Wikie**
 The wiki has articles with more information about the idea of Frequency Fingerprints, how to run the software, and example analysis of music using the Fingerprints:
 * https://github.com/bhugh/FrequencyFingerprint/wiki
